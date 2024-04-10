@@ -1,14 +1,61 @@
-データの型
+■データの型
 https://ai-inter1.com/python-data_type/
 
-コンピュータのデータ保存
+■コンピュータのデータ保存
 https://skillquest.jp/knowledge/skillup/how-pc-works/
 https://gigazine.net/news/20151104-how-hard-drive-work/
 https://www.youtube.com/watch?v=SSjeGjhwBo0
 
-2進数表記
+■2進数表記
 https://dencode.com/ja/string/bin
 
-Listとndarrayの違い
+■print関数
+https://www.sejuku.net/blog/61602
+
+■pythonファイルの作成と実行
+https://www.javadrive.jp/python/ini/index1.html
+
+■ndarrayの作成方法
+https://hachidev.com/posts/python-numpy-array
+https://qiita.com/supersaiakujin/items/4410efe5dc81982ef208
+
+■Listとndarrayの違い
 https://kakedashi-engineer.appspot.com/2020/02/05/array-list/
+
+■ndarrayの演算
+https://note.nkmk.me/python-numpy-matrix/
+
+■Numpy　where関数
+https://note.nkmk.me/python-numpy-where/
+
+■ループと条件分岐
+https://qiita.com/MoroeTachibana-oh/items/b3afbd952db3aee10ef7
+https://note.nkmk.me/python-numpy-ndarray-ndim-shape-size/
+https://note.nkmk.me/python-if-elif-else/
+
+■ファイルの操作
+https://note.nkmk.me/python-numpy-loadtxt-genfromtxt-savetxt/
+https://qiita.com/morita0079/items/42a161ff6a4bc0989aa8
+https://qiita.com/to-fmak/items/90f1b517cbcfaacc7279
+
+■コマンドライン引数の取得
+https://docs.python.org/ja/3/howto/argparse.html
+
+■画像ファイルの読み込み　保存
+https://note.nkmk.me/python-opencv-imread-imwrite/
+
+■Numpy　sum関数
+https://deepage.net/features/numpy-sum.html
+
+■python　対数変換
+https://note.nkmk.me/python-math-exp-log/
+
+■matplotlib
+https://qiita.com/DeepTama/items/dfb714f155b529711109
+
+■pandas
+https://note.nkmk.me/python-pandas-read-csv-tsv/
+https://note.nkmk.me/python-pandas-describe/
+https://note.nkmk.me/python-pandas-plot/
+
 
