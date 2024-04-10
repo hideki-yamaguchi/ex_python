@@ -1,0 +1,14 @@
+データの型
+https://ai-inter1.com/python-data_type/
+
+コンピュータのデータ保存
+https://skillquest.jp/knowledge/skillup/how-pc-works/
+https://gigazine.net/news/20151104-how-hard-drive-work/
+https://www.youtube.com/watch?v=SSjeGjhwBo0
+
+2進数表記
+https://dencode.com/ja/string/bin
+
+Listとndarrayの違い
+https://kakedashi-engineer.appspot.com/2020/02/05/array-list/
+
